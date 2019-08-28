@@ -219,12 +219,12 @@ end
 ########################################
 #seedkey = "Enceladus_test"
 
-SEEDJSON = "rseeds.dat"
+SEEDJSON = "rseeds_5w.dat"
 TARGETJSON = "links/Freilich09.json"
 
 # # fsplit = split(DATADIR,"/")
 # # OUTDIR = "results/simple/"*fsplit[end-2]*"/"*fsplit[end-1]*"/"
-OUTDIR = "results/simple/kegg_edge_json/"
+OUTDIR = "results/simple/5w/"
 
 if ispath(OUTDIR)==false
     mkpath(OUTDIR)
@@ -248,7 +248,7 @@ open(SEEDJSON) do file
 
             (X,Y) = netexp(R, P, RT, PT, b, bp, x)
             println("Writing out netexp"*string(count)*"...")
-            simple_write_out("results/enc_exp"*string(count)*".json",x,t,compounds,reactions,X,Y)
+            simple_write_out(OUTDIR*"enc_exp"*string(count)*".json",x,t,compounds,reactions,X,Y)
             count = count + 1
     end
 end
