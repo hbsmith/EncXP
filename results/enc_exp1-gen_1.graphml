@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="C00011" />
+    <node id="C00288" />
+    <node id="C00080" />
+    <node id="C00001" />
+    <node id="C07728" />
+    <node id="C18244" />
+    <node id="C01353" />
+    <node id="C00283" />
+    <node id="C19033" />
+    <node id="C01548" />
+    <node id="C00084" />
+    <node id="C11150" />
+    <node id="C00058" />
+    <node id="C07331" />
+    <node id="C00697" />
+    <edge source="C00011" target="C00288" />
+    <edge source="C00011" target="C00080" />
+    <edge source="C00011" target="C07728" />
+    <edge source="C00011" target="C18244" />
+    <edge source="C00011" target="C01353" />
+    <edge source="C00011" target="C00001" />
+    <edge source="C00011" target="C19033" />
+    <edge source="C00011" target="C11150" />
+    <edge source="C00011" target="C00058" />
+    <edge source="C00011" target="C07331" />
+    <edge source="C00288" target="C00001" />
+    <edge source="C00080" target="C00001" />
+    <edge source="C00001" target="C01353" />
+    <edge source="C00001" target="C00283" />
+    <edge source="C00001" target="C00084" />
+    <edge source="C00283" target="C19033" />
+    <edge source="C00283" target="C07331" />
+    <edge source="C01548" target="C00084" />
+  </graph>
+</graphml>

@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="C00011" />
+    <node id="C00288" />
+    <node id="C00080" />
+    <node id="C00001" />
+    <node id="C07728" />
+    <node id="C00022" />
+    <node id="C06033" />
+    <node id="C01327" />
+    <node id="C06614" />
+    <node id="C00222" />
+    <node id="C00256" />
+    <node id="C00186" />
+    <node id="C18244" />
+    <node id="C00048" />
+    <node id="C11148" />
+    <node id="C00090" />
+    <node id="C00230" />
+    <node id="C01353" />
+    <node id="C00283" />
+    <node id="C19033" />
+    <node id="C01548" />
+    <node id="C00084" />
+    <node id="C00900" />
+    <node id="C00149" />
+    <node id="C00036" />
+    <node id="C00237" />
+    <node id="C06790" />
+    <node id="C11150" />
+    <node id="C00209" />
+    <node id="C06615" />
+    <node id="C14866" />
+    <node id="C07490" />
+    <node id="C03589" />
+    <node id="C03248" />
+    <node id="C11149" />
+    <node id="C16482" />
+    <node id="C14867" />
+    <node id="C20781" />
+    <node id="C06010" />
+    <node id="C00058" />
+    <node id="C00804" />
+    <node id="C07331" />
+    <node id="C03981" />
+    <node id="C00196" />
+    <node id="C06899" />
+    <node id="C00697" />
+    <edge source="C00011" target="C00288" />
+    <edge source="C00011" target="C00080" />
+    <edge source="C00011" target="C07728" />
+    <edge source="C00011" target="C18244" />
+    <edge source="C00011" target="C00230" />
+    <edge source="C00011" target="C01353" />
+    <edge source="C00011" target="C00001" />
+    <edge source="C00011" target="C19033" />
+    <edge source="C00011" target="C00022" />
+    <edge source="C00011" target="C00149" />
+    <edge source="C00011" target="C00036" />
+    <edge source="C00011" target="C03248" />
+    <edge source="C00011" target="C11150" />
+    <edge source="C00011" target="C00058" />
+    <edge source="C00011" target="C00222" />
+    <edge source="C00011" target="C07331" />
+    <edge source="C00011" target="C03981" />
+    <edge source="C00011" target="C00196" />
+    <edge source="C00011" target="C00209" />
+    <edge source="C00288" target="C00001" />
+    <edge source="C00080" target="C00001" />
+    <edge source="C00001" target="C01327" />
+    <edge source="C00001" target="C00222" />
+    <edge source="C00001" target="C01353" />
+    <edge source="C00001" target="C00283" />
+    <edge source="C00001" target="C00084" />
+    <edge source="C00001" target="C00209" />
+    <edge source="C00001" target="C00022" />
+    <edge source="C00001" target="C00186" />
+    <edge source="C00001" target="C07331" />
+    <edge source="C00001" target="C06899" />
+    <edge source="C07728" target="C00090" />
+    <edge source="C00022" target="C06033" />
+    <edge source="C00022" target="C00900" />
+    <edge source="C00022" target="C00036" />
+    <edge source="C00022" target="C03589" />
+    <edge source="C00022" target="C03248" />
+    <edge source="C00022" target="C20781" />
+    <edge source="C00022" target="C06010" />
+    <edge source="C00022" target="C03981" />
+    <edge source="C00022" target="C00084" />
+    <edge source="C01327" target="C06614" />
+    <edge source="C01327" target="C11150" />
+    <edge source="C01327" target="C06615" />
+    <edge source="C06614" target="C00222" />
+    <edge source="C00222" target="C06615" />
+    <edge source="C00222" target="C00804" />
+    <edge source="C00222" target="C00084" />
+    <edge source="C00256" target="C00186" />
+    <edge source="C00186" target="C00149" />
+    <edge source="C00186" target="C20781" />
+    <edge source="C00186" target="C00058" />
+    <edge source="C00186" target="C00084" />
+    <edge source="C00048" target="C11148" />
+    <edge source="C11148" target="C00237" />
+    <edge source="C11148" target="C06790" />
+    <edge source="C11148" target="C11149" />
+    <edge source="C11148" target="C14867" />
+    <edge source="C11148" target="C00058" />
+    <edge source="C00090" target="C00230" />
+    <edge source="C00090" target="C16482" />
+    <edge source="C00090" target="C00196" />
+    <edge source="C00283" target="C19033" />
+    <edge source="C00283" target="C07331" />
+    <edge source="C19033" target="C07331" />
+    <edge source="C01548" target="C00084" />
+    <edge source="C00084" target="C03589" />
+    <edge source="C06790" target="C14866" />
+    <edge source="C11150" target="C00209" />
+    <edge source="C11150" target="C14866" />
+    <edge source="C11150" target="C11149" />
+    <edge source="C00209" target="C00058" />
+    <edge source="C14866" target="C07490" />
+    <edge source="C14866" target="C06899" />
+    <edge source="C11149" target="C14867" />
+  </graph>
+</graphml>
